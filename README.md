@@ -1,9 +1,9 @@
 Primary interests:
 
-- Programming language theory and compiler design
-- Developer tooling
-- Graphics and game engine development
-- Linux
+- Programming language theory and compiler design (coming soon...)
+- Developer tooling ([difr](https://github.com/vetr0s/difr))
+- Graphics and game engine development ([mach](https://github.com/vetr0s/mach) + [mach.h](https://github.com/vetr0s/mach.h))
+- Unix/Linux Configuration ([dotfiles](https://github.com/vet0rs/dotfiles))
 
 Personal Website: [vetr0s.dev](https://vetr0s.dev)
 
