@@ -11,5 +11,5 @@ Academics:
 
 | Degree | School | Location | Date |
 | :----- | :----: | :------: | ---: |
-| **B.S. Computer Science** | [University of Arizona](https://www.arizona.edu) | Tucson, AZ | May 2026 |
-| **Associate of Arts** | [South Puget Sound Community College](https://spscc.edu/)| Olympia, WA | May 2023 |
+| **B.S. Computer Science** | [UofA](https://www.arizona.edu) | Tucson, AZ | May 2026 |
+| **Associate of Arts** | [SPSCC](https://spscc.edu/)| Olympia, WA | May 2023 |
