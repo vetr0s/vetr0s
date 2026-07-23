@@ -2,6 +2,7 @@ Quick Links:
 
 - [Website](https://vetr0s.dev)
 - [Resume](https://vetr0s.dev/resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/ntebbs)
 
 Academics:
 
